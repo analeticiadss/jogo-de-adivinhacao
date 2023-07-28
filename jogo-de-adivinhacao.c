@@ -112,10 +112,10 @@ int main () {
 		
 	} else {
 		printf("\n\n");
-		printf("     ,-,		\n");
-		printf("    /.(			\n");
+		printf("     ,-,			\n");
+		printf("    /.(				\n");
 		printf("    \\ {			\n");
-		printf("     `-`		\n");
+		printf("     `-`			\n");
 		printf("\n");
 		printf("Voce perdeu! Tente novamente!\n");
 	}
