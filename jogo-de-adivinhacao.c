@@ -8,25 +8,25 @@
 int main () {
 	
 	printf("\n\n");
-	printf("	   _		     _										\n");
-	printf("	  / \\               / \\									\n");
-    printf("	 /   \\             /   \\									\n");
-    printf("	(_____)           (_____)									\n");
-    printf("	 |   |  _   _   _  |   |									\n");
-	printf("	 | O |_| |_| |_| |_| O |									\n");
-	printf("	 |-  |          _  | - |									\n");
-	printf("	 |   |   - _^_     |   |									\n");
-	printf("	 |  _|    //|\\\\  - |   |									\n");
-	printf("	 |   |   ///|\\\\\\   |  -|		Bem-vindo(a) ao nosso		\n");
-	printf("	 |-  |_  |||||||   |   |		jogo de adivinhacao!		\n");
-	printf("	 |   |   |||||||   |-  |									\n");
-	printf("	 |___|___|||||||___|___|									\n");
+	printf("	   _		     _											\n");
+	printf("	  / \\               / \\										\n");
+    printf("	 /   \\             /   \\											\n");
+    printf("	(_____)           (_____)											\n");
+    printf("	 |   |  _   _   _  |   |											\n");
+	printf("	 | O |_| |_| |_| |_| O |										\n");
+	printf("	 |-  |          _  | - |										\n");
+	printf("	 |   |   - _^_     |   |										\n");
+	printf("	 |  _|    //|\\\\  - |   |										\n");
+	printf("	 |   |   ///|\\\\\\   |  -|		Bem-vindo(a) ao nosso						\n");
+	printf("	 |-  |_  |||||||   |   |		jogo de adivinhacao!						\n");
+	printf("	 |   |   |||||||   |-  |										\n");
+	printf("	 |___|___|||||||___|___|										\n");
 	printf("	         (      (											\n");
-	printf("	          \\      \\										\n");
+	printf("	          \\      \\											\n");
 	printf("	           )      )											\n");
 	printf("	           |      |											\n");
 	printf("	           (      (											\n");
-	printf("	            \\      \\										\n");
+	printf("	            \\      \\											\n");
 	printf("\n\n");
 	
 	srand(time(0)); // para pegar numeros diferentes
